@@ -1,5 +1,5 @@
-![]/home/sheleny_dmitry/cpp_chat_giga/screenshots/screenshot.png
-![]/home/sheleny_dmitry/cpp_chat_giga/screenshots/screenshot2.png
-![]/home/sheleny_dmitry/cpp_chat_giga/screenshots/screenshot3.png
-![]/home/sheleny_dmitry/cpp_chat_giga/screenshots/screenshot4.png
-![]/home/sheleny_dmitry/cpp_chat_giga/screenshots/screenshot5.png
+![](screenshots/screenshot.png)
+![](screenshots/screenshot2.png)
+![](screenshots/screenshot3.png)
+![](screenshots/screenshot4.png)
+![](screenshots/screenshot5.png)
