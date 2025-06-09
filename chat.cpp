@@ -5,7 +5,7 @@
 
 std::string token;
 
-std::string auth_key = "";
+std::string auth_key = "auth_key_here";
 
 void GetToken(){
     std::string query = "curl -L -X POST \'https://ngw.devices.sberbank.ru:9443/api/v2/oauth\' \
@@ -37,7 +37,7 @@ void GetImage(std::string prompt, std::string name){
   \"messages\": [\
     {\
       \"role\": \"system\",\
-      \"content\": \"Ты — Василий Кандинский\"\
+      \"content\": \"Ты — Кандинский\"\
     },\
     {\
       \"role\": \"user\",\
@@ -84,6 +84,6 @@ int main() {
     std::cout<<std::endl;
     std::cout<<token<<std::endl;
 
-    GetImage("нарисуй мне . Реализм 4к", "output");
+    GetImage("Нарисуй дерево. Реализм", "output3");
 
 }
