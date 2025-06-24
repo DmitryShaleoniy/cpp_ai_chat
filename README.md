@@ -1,5 +1,1 @@
 ![](screenshots/screenshot.png)
-![](screenshots/screenshot2.jpg)
-![](screenshots/screenshot3.jpg)
-![](screenshots/screenshot4.jpg)
-![](screenshots/screenshot5.jpg)
